@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/maxwel-mazur/" target="_blank"><img src="https://img.shields.io/badge/-Maxwel%20Mazur-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a>
-  <a href="mailto:maxwelbm@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Maxwel%20Mazur-blue?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Linkedin Badge"></a>
+  <a href="mailto:maxwelbm@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-maxwelbm@gmail.com-blue?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Linkedin Badge"></a>
 </div></br>
 
 <p>Entusiasta das melhores tecnologias de desenvolvimento web & linux.</p></br>
