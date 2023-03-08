@@ -5,7 +5,6 @@
   <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/golpher.gif" style="display: block;opacity: 1;width: 22px;">
 </div></br>
 
-
 <p>Olá, sou um programador especializado em Golang e tenho um conhecimento profundo na linguagem, já lidei com quase todos os casos e usos possíveis, e estou sempre em busca de desafios para aprimorar minhas habilidades. Nas horas vagas, gosto de explorar a linguagem Lua e experimentar coisas novas, sempre disposto a aprender mais e saciar minha curiosidade.
 
 Sou um entusiasta do sistema Linux e tenho uma paixão por entender os processos e como as coisas funcionam por debaixo dos panos. Com um senso de humor afiado, sou conhecido por ser sincero até demais, e sempre tento trazer um toque de bom humor em minhas interações.
@@ -16,4 +15,6 @@ Atualmente com 26 anos, casado, sou também um amante de animes e games, e posso
 
 Claro! Nas horas vagas, além de explorar a linguagem Lua, também gosto de me aventurar com a linguagem Rust, sempre buscando expandir meus conhecimentos e habilidades em diferentes linguagens de programação. Acredito que cada nova linguagem que aprendo traz uma perspectiva única e me permite abordar problemas de maneiras diferentes e criativas.
 
-Estou disposto a conhecer novas pessoas e aumentar minha rede de contatos, fique a vontade para me contatar!</p></br>
+Estou disposto a conhecer novas pessoas e aumentar minha rede de contatos, fique a vontade para me contatar!</p>
+
+<a href='https://ko-fi.com/J3J6H1E68' target='_blank'><img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
