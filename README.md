@@ -1,7 +1,5 @@
 <h1>Maxwel Mazur</h1>   
 
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=maxwelbm&repo=github-visitors-badge&countColor=DodgerBlue" />
-
 <div style="font-size: 12px; display: inline_block;">
   <span style="font-size: 31px;">Engenheiro de Software </span>
   <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/golpher.gif" style="display: block;opacity: 1;width: 22px;">
