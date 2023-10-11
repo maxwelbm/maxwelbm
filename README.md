@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwelbm&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwelbm&show_icons=true&theme=transparent)
 
 <!-- <h1>Maxwel Mazur</h1>    -->
 <!--  -->
