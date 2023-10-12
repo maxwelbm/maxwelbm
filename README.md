@@ -1,3 +1,5 @@
+Hi, welcome to my profile, follow my [blog](https://maxwelbm.github.io/blog.github.io/). I'm a programmer and software engineer
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxwelbm&show_icons=true&theme=transparent" />
 </a>
