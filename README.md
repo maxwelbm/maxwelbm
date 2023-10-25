@@ -7,6 +7,13 @@ Welcome to my profile! Feel free to explore and follow my [blog](https://maxwelb
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwelbm&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </a>
 
+<br>
+<br>
+
+
+[![An image of @maxwelbm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxwelbm)](https://holopin.io/@maxwelbm)
+
+
 <!-- <h1>Maxwel Mazur</h1>    -->
 <!--  -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwelbm&show_icons=true&theme=onedark) -->
