@@ -1,3 +1,9 @@
+
+<div style="font-size: 12px; display: inline_block;">
+  <span style="font-size: 31px;">Software enginer</span>
+  <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/golpher.gif" style="display: block;opacity: 1;width: 22px;">
+</div></br>
+
 Welcome to my profile! Feel free to explore and follow my [blog](https://maxwelbm.github.io/). As a dedicated programmer and software engineer, I'm excited to share my insights, experiences, and expertise with you.
 
 <div>
