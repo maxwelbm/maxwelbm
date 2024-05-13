@@ -1,4 +1,9 @@
 Welcome to my profile! Feel free to explore and follow my [blog](https://maxwelbm.github.io/). As a dedicated programmer and software engineer, I'm excited to share my insights, experiences, and expertise with you.
+
+<div>
+  <img src="https://raw.githubusercontent.com/maxwelbm/maxwelbm/main/coding.gif" width="60%" style="margin: 12px 0px;" >
+</div>
+
 <!--
 <a href="https://github.com/maxwelbm/maxwelbm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxwelbm&show_icons=true&theme=transparent" />
