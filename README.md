@@ -4,7 +4,7 @@
   <!-- <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/golpher.gif" style="display: block;opacity: 1;width: 22px;"> -->
 </div></br>
 
-Welcome to my profile! Feel free to explore and follow my [blog](https://maxwelbm.github.io/). As a dedicated programmer and software engineer, I'm excited to share my insights, experiences, and expertise with you.
+Welcome to my profile! Feel free to explore and follow my [repositories](https://github.com/maxwelbm?tab=repositories). As a dedicated programmer and software engineer, I'm excited to share my insights, experiences, and expertise with you.
 
 <div>
   <img src="https://raw.githubusercontent.com/maxwelbm/maxwelbm/main/cod-mw2-cod-mw2ghost.gif" width="60%" style="margin: 12px 0px;" >
