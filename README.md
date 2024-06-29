@@ -13,7 +13,7 @@
   </a>
   <br>
   <a href="https://github.com/maxwelbm?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20My%20Gists-000000?style=flat-square&logo=github&labelColor=97a4e2" alt="View My Repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20My%20Repositories-000000?style=flat-square&logo=github&labelColor=97a4e2" alt="View My Repositories">
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/maxwelbm/maxwelbm/main/cod-mw2-cod-mw2ghost.gif" width="60%" style="margin: 12px 0px;" alt="">
